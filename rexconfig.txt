@@ -1,0 +1,12 @@
+[resamplers]
+mo1="I:\UTAU\Resamplers\moresampler0.8.4.exe"
+tips="I:\UTAU\Resamplers\TIPS.exe"
+
+[flags]
+growl=G
+reverse=R
+bubble=B
+fadein=I
+fadeout=D
+normalize=L
+smoothpitch=S
