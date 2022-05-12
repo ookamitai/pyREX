@@ -1,10 +1,10 @@
 # pyREX
-pyREX - Python Resampler EXtension  
+pyREX - Python Resampler EXtension.  
 A UTAU Multisamp passthrough. 
 
 # Overview
-
 Although it works, several features has yet to be implemented.  
+(super slow btw)
 
 # Flags  
 Fade in -> I  
