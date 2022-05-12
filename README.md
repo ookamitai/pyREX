@@ -1,5 +1,5 @@
 # pyREX
-pyREX - Python Resampler EXtension
+pyREX - Python Resampler EXtension  
 A UTAU Multisamp passthrough. 
 
 # Overview
