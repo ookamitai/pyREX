@@ -2,6 +2,9 @@
 pyREX - Python Resampler EXtension.  
 A UTAU Multisamp passthrough. 
 
+# Before you continue...
+This project has also been halted due to similar problems in Cactisamp.  
+
 # Overview
 Although it works, several features has yet to be implemented.  
 (super slow btw)
